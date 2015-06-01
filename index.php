@@ -17,7 +17,7 @@
         <div class="col-md-6">
 		<div class="jumbotron">
           <h2>Livre d'or</h2>
-          <p>Dans notre livre d'or nous vous présentons toutes nos voitures disponibles à la location.</br> Vous pouvez de même consulter tous les avis de nos clients sur leurs expériences avec CarLoc ! Ils font parfois des citytrips insolites, n'hésitez pas à consulter leurs avis !</p>
+          <p>Dans notre livre d'or nous vous présentons toutes nos voitures disponibles à la location.</br> Vous pouvez de même consulter tous les avis de nos clients sur leurs expériences avec CarsLoc ! Ils font parfois des citytrips insolites, n'hésitez pas à consulter leurs avis !</p>
           <p><a class="btn btn-danger" href="livreor.php" role="button">Livre d'or &raquo;</a></p>
        </div>
 	   </div>
@@ -25,7 +25,7 @@
 	   <div class="col-md-6">
 	   <div class="jumbotron">
           <h2>Louer une voiture</h2>
-          <p>Louer un voiture en quelques clics ! </br>Vous choisissez une voiture, la durée de location, un pack surprise en option, votre location est effectuée ! </br>Inscrivez vous ou connectez vous pour avoir accès à l'espace location.</p>
+          <p>Louer un voiture en quelques clics ! </br>Vous choisissez une voiture, la durée de location, un pack en option, votre location est effectuée ! </br>Inscrivez vous ou connectez vous pour avoir accès à l'espace location.</p>
           <p><a class="btn btn-danger" href="fonction/connexion/signin.php" role="button">Se connecter</a>
 			<a class="btn btn-danger" href="fonction/connexion/inscription.php" role="button">S'inscrire</a></p>
         </div>
@@ -36,7 +36,7 @@
 		<div class="col-xs-12 col-sm-9">
 		<div class="jumbotron">
           <h2>Vous êtes administrateur</h2>
-          <p>Vous voulez vous aussi louer vos voiture et devenir administrateur, n'hésitez pas à contacter notre entreprise.</p>
+          <p>Vous êtes administrateur et souhaitez consulter le planning des locations, ajouter ou supprimer une voiture ? C'est par ici !</p>
           <p><a class="btn btn-danger" href="fonction/admin/admin.php" role="button">Espace administrateur &raquo;</a></p>
         </div>
       </div>
