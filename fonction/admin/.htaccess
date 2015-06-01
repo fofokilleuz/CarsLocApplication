@@ -1,0 +1,7 @@
+AuthName "Page d'administration protégée"
+
+AuthType Basic
+
+AuthUserFile "/var/lib/openshift/556b32034382ecce070000dd/app-root/runtime/repo/fonction/admin/.htpasswd" 
+
+Require valid-user
